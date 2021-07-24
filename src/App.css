@@ -1,0 +1,7 @@
+h2{
+    color: #3276BD
+}
+.App{
+    display: grid;
+    place-items: center;
+}
